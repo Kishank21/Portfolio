@@ -7,7 +7,7 @@ export const Skills = () => {
         { name: "Python", level: 90 },
         { name: "C", level: 85 },
         { name: "Java", level: 70 },
-        { name: "JavaScript", level: 80 },
+        
       ]
     },
     {
@@ -15,8 +15,8 @@ export const Skills = () => {
       skills: [
         { name: "HTML", level: 95 },
         { name: "CSS", level: 90 },
-        { name: "JavaScript", level: 80 },
-        { name: "Responsive Design", level: 85 },
+        { name: "JavaScript", level: 60 },
+        
       ]
     },
     {
@@ -24,8 +24,7 @@ export const Skills = () => {
       skills: [
         { name: "SQL", level: 75 },
         { name: "DBMS", level: 80 },
-        { name: "Machine Learning", level: 75 },
-        { name: "Algorithms", level: 85 },
+        { name: "Algorithms", level: 75 },
       ]
     }
   ];

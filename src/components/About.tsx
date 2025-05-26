@@ -13,14 +13,14 @@ export const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-gray-300 leading-relaxed">
-              Hi, I'm Kishan Kada, an enthusiastic and dedicated software developer with a strong foundation in full-stack development and machine learning. Currently in my final year of B.Tech in Computer Science at Aditya Engineering College, I bring hands-on experience from internships and self-driven projects, along with a passion for building efficient and user-friendly software solutions.
+              Hi, I'm Kishan Kada, an enthusiastic and dedicated software developer with a strong foundation in full-stack development. I recently completed my B.Tech in Computer Science at Aditya Engineering College, I bring hands-on experience from internships and self-driven projects, along with a passion for building efficient and user-friendly software solutions.
             </p>
             
             <div className="grid grid-cols-2 gap-6">
               <div className="bg-slate-700/50 p-4 rounded-lg">
                 <h3 className="text-purple-400 font-semibold mb-2">Education</h3>
                 <p className="text-gray-300">B.Tech Computer Science</p>
-                <p className="text-sm text-gray-400">CGPA: 7.63</p>
+                <p className="text-sm text-gray-400">CGPA: 7.93</p>
               </div>
               
               <div className="bg-slate-700/50 p-4 rounded-lg">
@@ -37,19 +37,23 @@ export const About = () => {
               <ul className="space-y-2 text-gray-300">
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-purple-400 rounded-full mr-3"></span>
-                  Full-Stack Development
+                  Java
                 </li>
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-purple-400 rounded-full mr-3"></span>
-                  Machine Learning
+                  Python Programming
                 </li>
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-purple-400 rounded-full mr-3"></span>
-                  Competitive Programming
+                  HTML - CSS
                 </li>
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-purple-400 rounded-full mr-3"></span>
-                  AI/ML Research
+                  JavaScript(Basic)
+                </li>
+                <li className="flex items-center">
+                  <span className="w-2 h-2 bg-purple-400 rounded-full mr-3"></span>
+                  SQL
                 </li>
               </ul>
             </div>

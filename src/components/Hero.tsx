@@ -22,15 +22,7 @@ export const Hero = () => {
             Aspiring Junior Software Developer specializing in Full-Stack Development & Machine Learning
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-            <Button className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-3 text-lg">
-              <Download className="mr-2 h-5 w-5" />
-              Download Resume
-            </Button>
-            <Button variant="outline" className="border-purple-400 text-purple-400 hover:bg-purple-400 hover:text-white px-8 py-3 text-lg">
-              View Projects
-            </Button>
-          </div>
+        
           
           <div className="flex justify-center space-x-6">
             <a

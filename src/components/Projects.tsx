@@ -9,14 +9,14 @@ export const Projects = () => {
       title: "Movie Recommendation System",
       description: "AI-driven recommendation engine using collaborative and content-based filtering algorithms to suggest personalized movie recommendations.",
       technologies: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/Kishank21/Movie-Recommendation-System",
       demoUrl: "#",
     },
     {
       title: "Tic-Tac-Toe Game",
       description: "Classic tic-tac-toe game implemented with a smooth and intuitive user interface using modern web technologies.",
       technologies: ["HTML", "CSS", "JavaScript", "DOM Manipulation"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/Kishank21/Tic-Tac-Toe",
       demoUrl: "#",
     }
   ];
@@ -67,9 +67,8 @@ export const Projects = () => {
                     </a>
                   </Button>
                   
-                  <Button className="bg-purple-600 hover:bg-purple-700">
-                    Live Demo
-                  </Button>
+          
+
                 </div>
               </CardContent>
             </Card>

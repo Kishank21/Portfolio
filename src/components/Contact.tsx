@@ -70,10 +70,7 @@ export const Contact = () => {
             <MapPin className="w-8 h-8 text-purple-400 mx-auto mb-4" />
             <h3 className="text-xl font-bold text-white mb-2">Location</h3>
             <p className="text-gray-300 mb-4">India • Available for Remote Work</p>
-            <Button className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-3">
-              <Mail className="mr-2 h-5 w-5" />
-              Send Message
-            </Button>
+            
           </div>
         </div>
         

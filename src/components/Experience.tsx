@@ -99,7 +99,7 @@ export const Experience = () => {
             <div className="mt-8 p-6 bg-gradient-to-r from-purple-600/20 to-pink-600/20 rounded-lg border border-purple-500/30">
               <h4 className="text-lg font-bold text-white mb-2">Current Goal</h4>
               <p className="text-gray-300">
-                Actively applying for Junior Software Developer roles, particularly interested in contributing to real-world applications at Girus Technologies.
+                Actively applying for Software Developer roles, particularly interested in contributing to real-world applications.
               </p>
             </div>
           </div>
